@@ -22,8 +22,6 @@ It will be beneficial for you to keep this document handy as a **Jr. Systems Adm
 
 ## Steps to Add Scheduled Job
 
-## Steps to Add Scheduled Job
-
 Execute the following steps to add a PowerShell scheduled job:
 
 1. Open Windows PowerShell
