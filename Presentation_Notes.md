@@ -14,10 +14,15 @@ If you want get started making Markdown formatted docs:
 
 Of course you can also use:
 
-[Visual Studio Code](https://code.visualstudio.com/Download
-) - Requires Markdown All-in-One extension
-
+[Visual Studio Code](https://code.visualstudio.com/Download) - Requires Markdown All-in-One extension
 
 **Blog post that inspired this presentation**
 
 [https://adamtheautomator.com/a-sysadmins-guide-to-markdown-language/](https://adamtheautomator.com/a-sysadmins-guide-to-markdown-language/)
+
+### Additional Information
+
+Recently at MS Ignite 2020, one of the PowerShell talks given about PowerShell 7.1 mentions Visual Studio Code .NET Notebooks. These notebooks are similar to Jupyter Notebooks. 
+You guessed it, Markdown is used and much of what you've learned during this presentation will be useful to use these new ways of documenting code and teaching! Keep watching the [PowerShell Team Blog](https://devblogs.microsoft.com/powershell/) for updates.
+
+Remember, there are tons of uses for Markdown. It's the formatting language of the Internet, and it's everywhere.
