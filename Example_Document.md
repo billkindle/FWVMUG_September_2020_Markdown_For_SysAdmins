@@ -4,7 +4,11 @@
 
 This process outlines the steps required to setup a *Scheduled Job* using **PowerShell**. 
 We use scheduled jobs as part of many maintenance processes performed by the team daily.
+<<<<<<< HEAD
 It will be beneficial for you to keep this document handy as a **Jr. Systems Administrator**. 
+=======
+It will be beneficial for you to keep this document handy as a **Jr. Systems Administrator**.
+>>>>>>> e52890d98a83e59aad6a05eac9b2a4eed3cfa065
 
 ### Pre-Op Checklist
 
@@ -22,8 +26,11 @@ It will be beneficial for you to keep this document handy as a **Jr. Systems Adm
 
 ## Steps to Add Scheduled Job
 
+<<<<<<< HEAD
 ## Steps to Add Scheduled Job
 
+=======
+>>>>>>> e52890d98a83e59aad6a05eac9b2a4eed3cfa065
 Execute the following steps to add a PowerShell scheduled job:
 
 1. Open Windows PowerShell
@@ -33,9 +40,15 @@ Execute the following steps to add a PowerShell scheduled job:
     $T = New-JobTrigger -Weekly -At "9:00 PM" -DaysOfWeek Monday
     $path = "\\Srv01\Scripts\Stop-IISServices.ps1"
     Register-ScheduledJob -Name "UpdateVersion" -FilePath $path -ScheduledJobOption $O -Trigger $T
+<<<<<<< HEAD
 ```
+=======
+>>>>>>> e52890d98a83e59aad6a05eac9b2a4eed3cfa065
 
 3. Verify scheduled job is active using Get-ScheduledJob and inspecting the list of jobs.
 4. Notify Sr. Systesm Administrator that task is complete.
 
+<<<<<<< HEAD
 ![alt_text](https://happyologist.co.uk/wp-content/uploads/happy.jpeg)
+=======
+>>>>>>> e52890d98a83e59aad6a05eac9b2a4eed3cfa065
