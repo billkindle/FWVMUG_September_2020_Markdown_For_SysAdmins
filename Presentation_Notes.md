@@ -12,6 +12,11 @@ If you want get started making Markdown formatted docs:
 
 [https://stackedit.io](https://stackedit.io) - StackEdit (more advanced Markdown Editor)
 
+Here's the tool I used to create the slide deck used for the meeting in Markdown:
+
+[https://marpit.marp.app/](https://marpit.marp.app/)
+[https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+
 Of course you can also use:
 
 [Visual Studio Code](https://code.visualstudio.com/Download) - Requires Markdown All-in-One extension
